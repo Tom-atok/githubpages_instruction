@@ -9,7 +9,7 @@
 
 ## Step2: ページを編集する
 - お手本を参考に，`practice`フォルダに入った，index.mdをmarkdownで構造化する
-  - お手本: [https://tom-atok.github.io/githubpages_instruction/pages/zuboranara/](https://tom-atok.github.io/githubpages_instruction/pages/zuboranara/)
+  - お手本:[https://tom-atok.github.io/githubpages_instruction/pages/zuboranara/](https://tom-atok.github.io/githubpages_instruction/pages/zuboranara/)
   - markdown記法について: [https://github.com/Tom-atok/githubpages_instruction?tab=readme-ov-file](https://github.com/Tom-atok/githubpages_instruction?tab=readme-ov-file)
 
 ## Step3: プルリクエストを出す
