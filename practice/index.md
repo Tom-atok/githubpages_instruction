@@ -6,7 +6,7 @@
 
 私がズボラなーラに込めた想いは[こちら](https://tom-atok.github.io/githubpages_instruction/zuboranara/origin.html)
 
-![](/../master/zuboranara/img/zuboranara.png)
+![](/practice/img/zuboranara.png)
 
 ## 必要な材料
 
