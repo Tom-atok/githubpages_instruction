@@ -3,7 +3,7 @@
 ## **はじめに**
 
 [カルボナーラ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%BC%E3%83%A9)はイタリア料理の定番ですが、忙しい人や料理が苦手な人でも簡単に作れる「ズボラなーら（ズボラなカルボナーラ）」をご紹介します。このレシピなら手間をかけずに美味しいパスタを楽しめます。
-私がズボラなーラに込めた想いは[こちら](practice/origin.md)
+私がズボラなーラに込めた想いは[こちら](docs/practice/origin.md)
 ![photo](/practice/img/zuboranara.png)
 
 
