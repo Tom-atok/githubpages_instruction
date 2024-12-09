@@ -1,4 +1,4 @@
-## [githubpages_instruction](https://tom-atok.github.io/githubpages_instruction/)
+# [githubpages_instruction](https://tom-atok.github.io/githubpages_instruction/)
 # ズボラなーら（ズボラなカルボナーラ）レシピ
 
 ## はじめに
